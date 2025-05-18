@@ -135,7 +135,7 @@ currentPercent = 0
 questions = giveIndividualQuestion(questionBank)
 print(f"Seperated questions: {questions}")
 
-#openChatGPT()
+openChatGPT()
 calculate1Percent()
 
 
